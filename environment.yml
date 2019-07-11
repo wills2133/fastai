@@ -11,7 +11,7 @@ dependencies:
 - scipy
 - cuda90
 - cudnn
-- numpy
+- numpy=1.15.1
 - pillow
 - jpeg
 - spacy
@@ -112,3 +112,4 @@ dependencies:
   - PyHamcrest
   - pdpbox==0.1.0
   - scikit-misc
+  - boto3
